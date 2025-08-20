@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD_o6NLcKbJ-liiqm65_h55jiYuRQLF6OM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1043462027309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.safeappetite</string>
+	<key>PROJECT_ID</key>
+	<string>safe-appetite-a008c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>safe-appetite-a008c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1043462027309:ios:e3d099ab71657432a8e0a4</string>
+</dict>
+</plist>
